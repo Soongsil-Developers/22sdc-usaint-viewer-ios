@@ -1,0 +1,6 @@
+framework module Pods_Usaint_viewer_iosTests {
+  umbrella header "Pods-Usaint_viewer_iosTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
