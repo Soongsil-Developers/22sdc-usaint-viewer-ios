@@ -1,4 +1,4 @@
-////refenced by https://stackoverflow.com/questions/56571349/custom-back-button-for-navigationviews-navigation-bar-in-swiftui
+//refenced by https://stackoverflow.com/questions/56571349/custom-back-button-for-navigationviews-navigation-bar-in-swiftui
 import SwiftUI
 
 struct BackButton : View{
