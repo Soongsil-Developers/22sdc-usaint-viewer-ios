@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_Usaint_viewer_ios_sdk_Usaint_viewer_ios_sdkTests : NSObject
+@end
+@implementation PodsDummy_Pods_Usaint_viewer_ios_sdk_Usaint_viewer_ios_sdkTests
+@end
